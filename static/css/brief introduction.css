@@ -1,0 +1,86 @@
+.rect-out {
+    width: 28%;
+    height: 18%;
+    border: 2px solid #5b584a;
+    position: fixed;
+    bottom: 2.5%;
+    left: 3.5%;
+}
+
+.rect-inner {
+    width: 97%;
+    height: 91%;
+    border: 4px solid #5b584a;
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.brief-image {
+    width: 22%;
+    height: 88%;
+    margin: 0 auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 1.8%;
+    object-fit: cover;
+}
+
+.brief-text {
+    width: 93%;
+    height: 88%;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 5%;
+}
+
+.brief-title {
+    font-size: 2.8vh;
+    font-family: Garamond;
+    -webkit-text-stroke-width: 1px;
+    color: #5b584a;
+    -webkit-text-stroke-color: #5b584a;
+}
+
+.brief-intro {
+    font-size: 1.06vh;
+    font-family: Garamond;
+    color: #5b584a;
+    margin-top: 10px;
+}
+
+.brief-demo {
+    font-size: 1.06vh;
+    margin-top: 1%;
+    max-height: 75%;
+    line-height: auto;
+    overflow: auto;
+}
+
+/*定义滚动条
+ 高宽分别对应横竖滚动条的尺寸*/
+ ::-webkit-scrollbar
+ {
+     width:6px;
+     background-color:#F5F5F5;
+ }
+ /*定义滚动条轨道
+  内阴影+圆角*/
+ ::-webkit-scrollbar-track
+ {
+     -webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.3);
+     border-radius:10px;
+     background-color:#F5F5F5;
+ }
+ /*定义滑块
+  内阴影+圆角*/
+ ::-webkit-scrollbar-thumb
+ {
+     border-radius:10px;
+     -webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);
+     background-color:#555;
+ }
+ 

@@ -1,0 +1,27 @@
+.tooltip-icon {
+    width: 24rem;
+    margin-bottom: 4px;
+   }
+   
+.tooltip-title {
+    font-size: 20px;
+    font-family: Garamond;
+    margin-left: 80px;
+    margin-bottom: 5px;
+    -webkit-text-stroke-width: 1px;
+    color: #5b584a;
+    -webkit-text-stroke-color: #5b584a;
+}
+
+.tooltip-text {
+    font-size: 14px;
+    font-family: Garamond;
+    line-height: 16px;
+    color:rgba(91,88,74);
+    margin-left: 80px;
+    width: 20rem;
+}
+
+.tooltip-paragraph {
+    margin-top: -1.5rem;
+}
