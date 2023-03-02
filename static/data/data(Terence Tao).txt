@@ -1,0 +1,45 @@
+subject, relation, action, dimension:life, type:temporal, date:2006, origin:Terence Tao won the Fields Medal in 2006 and won the Royal Medal and Breakthrough Prize in Mathematics in 2014.
+subject, relation, action, dimension:life, type:temporal, date:2006, origin:He is also a 2006 MacArthur Fellow.
+subject, relation, action, dimension:life, type:temporal, date:an early age, origin:He is one of only three children in the history of the Johns Hopkins' Study of Exceptional Talent program to have achieved a score of 700 or greater on the SAT math section while just eight years old; Terence Tao scored a 760.[18][6] Julian Stanley, Director of the Study of Mathematically Precocious Youth, stated that Terence Tao had the greatest mathematical reasoning ability he had found in years of intensive searching.[19] 
+
+subject, relation, action, dimension:life, type:temporal, date:eight years old, origin:Terence Tao was the youngest participant to date in the International Mathematical Olympiad, first competing at the age of ten; in 1986, 1987, and 1988, he won a bronze, silver, and gold medal, respectively.
+subject, relation, action, dimension:life, type:temporal, date:the age of ten, origin:Terence Tao remains the youngest winner of each of the three medals in the Olympiad's history, having won the gold medal at the age of 13 in 1988.[20]
+
+subject, relation, action, dimension:life, type:temporal, date:the age of 13, origin:At age 14, Terence Tao attended the Research Science Institute, a summer program for secondary students.
+subject, relation, action, dimension:life, type:temporal, date:age 14, origin:In 1991, he received his bachelor's and master's degrees at the age of 16 from Flinders University under the direction of Garth Gaudry.[21]
+subject, relation, action, dimension:life, type:temporal, date:1991, origin:In 1992, he won a Postgraduate Fulbright Scholarship to undertake research in mathematics at Princeton University in the United States.
+subject, relation, action, dimension:life, type:geography, date:1992, origin:From 1992 to 1996, Terence Tao was a graduate student at Princeton University under the direction of Elias Stein, receiving his PhD at the age of 21.[21]
+subject, relation, action, dimension:life, type:temporal, date:1992 to 1996, origin:In 1996, he joined the faculty of the University of California, Los Angeles.
+subject, relation, action, dimension:life, type:geography, date:1996, origin:In 1999, when he was 24, he was promoted to full professor at UCLA and remains the youngest person ever appointed to that rank by the institution.[21]
+He is known for his collaborative mindset; by 2006, Terence Tao had worked with over 30 others in his discoveries,[6] reaching 68 co-authors by October 2015.
+
+subject, relation, action, dimension:life, type:temporal, date:1999, origin:Terence Tao has had a particularly extensive collaboration with British mathematician Ben J. Green; together they proved the Green–Terence Tao theorem, which is well-known among both amateur and professional mathematicians.
+subject, relation, action, dimension:life, type:temporal, date:2012, origin:In 2018, with Brad Rodgers, Terence Tao showed that the de Bruijn–Newman constant, the nonpositivity of which is equivalent to the Riemann hypothesis, is nonnegative.[27]
+subject, relation, action, dimension:life, type:relation, date:2018, origin:In 2020, Terence Tao proved Sendov's conjecture, concerning the locations of the roots and critical points of a complex polynomial, in the special case of polynomials with sufficiently high degree.[28]
+
+subject, relation, action, dimension:life, type:temporal, date:2020, origin:British mathematician and Fields medalist Timothy Gowers remarked on Terence Tao's breadth of knowledge:[29]
+
+subject, relation, action, dimension:life, type:temporal, date:2014, origin:In 2021, Terence Tao was awarded the Riemann Prize Week as recipient of the inaugural Riemann Prize 2019 by the Riemann International School of Mathematics at the University of Insubria.[38]
+subject, relation, action, dimension:life, type:geography, date:2021, origin:Terence Tao was a finalist to become Australian of the Year in 2007.[39]
+
+subject, relation, action, dimension:life, type:temporal, date:2021, origin:As of 2022, Terence Tao has published over three hundred articles, along with sixteen books.[40]
+subject, relation, action, dimension:life, type:temporal, date:the Year, origin:He has an Erdős number of 2.[41]
+subject, relation, action, dimension:life, type:temporal, date:2022, origin:He is a highly cited researcher.[42][43]
+From 2001 to 2010, Terence Tao was part of a well-known collaboration with James Colliander, Markus Keel, Gigliola Staffilani, and Hideo Takaoka.
+subject, relation, action, dimension:life, type:temporal, date:From 2001 to 2010, origin:In many cases these results were sharp enough to perfectly complement well-posedness results for sufficiently large exponents as due to Bourgain, Colliander−Keel−Staffilani−Takaoka−Terence Tao, and others.
+subject, relation, action, dimension:life, type:temporal, date:2001, origin:Terence Tao proved the global well-posedness of solutions with sufficiently small initial data.
+subject, relation, action, dimension:life, type:relation, date:2001, origin:Terence Tao later adapted some of his work on wave maps to the setting of the Benjamin–Ono equation; Alexandru Ionescu and Kenig later obtained improved results with Terence Tao's methods.[T04a][46]
+
+subject, relation, action, dimension:life, type:relation, date:2016, origin:Terence Tao speculated that the Navier–Stokes equations might be able to simulate a Turing complete system, and that as a consequence it might be possible to (negatively) resolve the existence and smoothness problem using a modification of his results.[6][24]
+subject, relation, action, dimension:life, type:geography, date:2001, origin:Here one studies the operation which restricts input functions on Euclidean space to a submanifold and outputs the product of the Fourier transforms of the corresponding measures.
+subject, relation, action, dimension:life, type:temporal, date:1970s.[57][58][59, origin:Such multilinear problems originated in the 1990s, including in notable work of Jean Bourgain, Sergiu Klainerman, and Matei Machedon.[60][61][62]
+subject, relation, action, dimension:life, type:relation, date:2003, origin:In mathematical terms, most of their results identify settings in which a convex optimisation problem correctly computes the solution of an optimisation problem which seems to lack a computationally tractable structure.
+subject, relation, action, dimension:life, type:relation, date:multilinear, origin:These problems are of the nature of finding the solution of an underdetermined linear system with the minimal possible number of nonzero entries, referred to as "sparsity".
+subject, relation, action, dimension:life, type:temporal, date:2007, origin:"
+subject, relation, action, dimension:life, type:relation, date:2010, origin:This gave a proof of the long-conjectured circular law, which had previously been proved in weaker formulations by many other authors.
+subject, relation, action, dimension:life, type:temporal, date:2011, origin:If one considers two such random matrices which agree on the average value of any quadratic polynomial in the diagonal entries and on the average value of any quartic polynomial in the off-diagonal entries, then Terence Tao and Vu show that the expected value of a large number of functions of the eigenvalues will also coincide, up to an error which is uniformly controllable by the size of the matrix and which becomes arbitrarily small as the size of the matrix increases.[TV11] Similar results were obtained around the same time by László Erdös, Horng-Tzer Yau, and Jun Yin.[78][79]
+In 2004, Terence Tao, together with Jean Bourgain and Nets Katz, studied the additive and multiplicative structure of subsets of finite fields of prime order.[BKT04]
+subject, relation, action, dimension:life, type:relation, date:2004, origin:It is well known that there are no nontrivial subrings of such a field.
+subject, relation, action, dimension:life, type:temporal, date:1975, origin:The Green–Terence Tao theorem then arises as a special case, although it is not trivial to show that the prime numbers satisfy the conditions of Green and Terence Tao's extension of the Szemerédi theorem.
+
+subject, relation, action, dimension:life, type:temporal, date:2010, origin:The proof of Green and Terence Tao was incomplete, as it was conditioned upon unproven conjectures.

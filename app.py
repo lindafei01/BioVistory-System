@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for
 from data_processing.tool import get_info
-
+import os
+os.environ['CORENLP_HOME'] = 'D:\AppGallery\stanford\stanford-corenlp-4.5.2'
 
 """
 flask将表单数据发送给模板

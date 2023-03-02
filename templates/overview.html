@@ -7,9 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>overview</title>
     <!-- for debug <script src="{{ url_for('static',filename='js/d3.v7.min.js') }}"></script>  "https://d3js.org/d3.v7.min.js" -->
-    <script src="../static/js/d3.v7.min.js"></script>
+    <!-- <script src="../static/js/d3.v7.min.js"></script> -->
+    <script src="{{ url_for('static',filename='js/d3.v7.min.js') }}"></script>
     <!-- for debug <script src="{{ url_for('static',filename='js/jquery.min.js')  }}"></script>  "https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"                                                 "https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js" -->
-    <script src="../static/js/jquery.min.js"></script>
+    <script src="{{ url_for('static',filename='js/jquery.min.js')  }}"></script>
+    <!-- <script src="../static/js/jquery.min.js"></script> -->
     <style>
         body {
             background-color: #e6e4d7;
@@ -420,7 +422,8 @@
         var query = '{{ query }}'
     </script>
     <!-- for debug <script src="{{ url_for('static',filename='js/overview.js') }}" type=text/javascript></script> -->
-    <script src="../static/js/overview.js" type=text/javascript></script>
+    <!-- <script src="../static/js/overview.js" type=text/javascript></script> -->
+    <script src="{{ url_for('static',filename='js/overview.js') }}" type=text/javascript></script>
 </body>
 
 </html>

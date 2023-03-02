@@ -1,1 +1,108 @@
-Steve Jobs, attended Reed College, before withdrawing same year, type:temporal, date:1972, origin:Steve Jobs attended Reed College in 1972 before withdrawing that same year.
+subject, relation, action, dimension:life, type:temporal, date:1972, origin:Steve Jobs attended Reed College in 1972 before withdrawing that same year.
+subject, relation, action, dimension:life, type:temporal, date:1974, origin:In 1974, he traveled through India seeking enlightenment before later studying Zen Buddhism.
+subject, relation, action, dimension:life, type:temporal, date:1976, origin:He and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer.
+subject, relation, action, dimension:life, type:temporal, date:1979, origin:Steve Jobs saw the commercial potential of the Xerox Alto in 1979, which was mouse-driven and had a graphical user interface (GUI).
+subject, relation, action, dimension:life, type:relation, date:1985, origin:In 1985, Steve Jobs was forced out of Apple after a long power struggle with the company's board and its then-CEO, John Sculley.
+subject, relation, action, dimension:life, type:temporal, date:1986, origin:In addition, he helped to develop the visual effects industry when he funded the computer graphics division of George Lucas's Lucasfilm in 1986.
+subject, relation, action, dimension:life, type:temporal, date:1995, origin:The new company was Pixar, which produced the first 3D computer-animated feature film Toy Story (1995) and went on to become a major animation studio, producing over 25 films since.
+
+subject, relation, action, dimension:life, type:temporal, date:1997, origin:In 1997, Steve Jobs returned to Apple as CEO after the company's acquisition of NeXT.
+subject, relation, action, dimension:life, type:temporal, date:2003, origin:In 2003, Steve Jobs was diagnosed with a pancreatic neuroendocrine tumor.
+subject, relation, action, dimension:life, type:temporal, date:October 5, 2011, origin:He died of respiratory arrest related to the tumor on October 5, 2011, at the age of 56.
+subject, relation, action, dimension:life, type:temporal, date:2022, origin:In 2022, he was posthumously awarded the Presidential Medal of Freedom.
+
+subject, relation, action, dimension:life, type:relation, date:February 24, 1955, origin:Steve Steve Jobsn Paul Steve Jobs was born in San Francisco, California, on February 24, 1955, to Joanne Carole Schieble and Abdulfattah Jandali
+subject, relation, action, dimension:life, type:temporal, date:February 24, 1955, origin:According to Jandali, Schieble deliberately did not involve him in the process: "Without telling me, Joanne upped and left to move to San Francisco to have the baby without anyone knowing, including me."[13]
+
+subject, relation, action, dimension:life, type:relation, date:1967, origin:"
+subject, relation, action, dimension:life, type:geography, date:mid-1972, origin:Steve Jobs later reflected that had it not been for Wozniak's blue boxes, "there wouldn't have been an Apple".[40]
+subject, relation, action, dimension:life, type:temporal, date:March 1976, origin:By March 1976, Wozniak completed the basic design of the Apple I computer and showed it to Steve Jobs, who suggested that they sell it; Wozniak was at first skeptical of the idea but later agreed.[70]
+subject, relation, action, dimension:life, type:geography, date:early 1977, origin:It was also at this time that Steve Jobs displayed a prototype Apple I computer for Brennan and his parents in their living room.
+subject, relation, action, dimension:life, type:temporal, date:April 1977, origin:Brennan notes a shift in this time period, where the two main influences on Steve Jobs were Apple Inc. and Kobun.
+subject, relation, action, dimension:life, type:geography, date:a few days, origin:Brennan's decision, however, was overshadowed by the fact that she realized she was pregnant, and that Steve Jobs was the father.
+subject, relation, action, dimension:life, type:temporal, date:January 24, 2006, origin:In 2003 and 2004, as Pixar's contract with Disney was running out, Steve Jobs and Disney chief executive Michael Eisner tried but failed to negotiate a new partnership,[134] and in January 2004, Steve Jobs announced that he would never deal with Disney again.[135] Pixar would seek a new partner to distribute its films after its contract expired.
+
+subject, relation, action, dimension:life, type:relation, date:nine months, origin:"
+subject, relation, action, dimension:life, type:relation, date:Sunday, October 16, 2011, origin:Some of Apple's retail stores closed briefly so employees could attend the memorial.
+subject, relation, action, dimension:life, type:relation, date:early 1986, origin:Although the doctor did not help Steve Jobs while he was alive, he left a letter for Steve Jobs to be opened upon his death.
+subject, relation, action, dimension:life, type:temporal, date:1972, origin:Steve Jobs attended Reed College in 1972 before withdrawing that same year.
+subject, relation, action, dimension:life, type:temporal, date:1974, origin:In 1974, he traveled through India seeking enlightenment before later studying Zen Buddhism.
+subject, relation, action, dimension:life, type:temporal, date:1976, origin:He and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer.
+subject, relation, action, dimension:life, type:temporal, date:1979, origin:Steve Jobs saw the commercial potential of the Xerox Alto in 1979, which was mouse-driven and had a graphical user interface (GUI).
+subject, relation, action, dimension:life, type:relation, date:1985, origin:In 1985, Steve Jobs was forced out of Apple after a long power struggle with the company's board and its then-CEO, John Sculley.
+subject, relation, action, dimension:life, type:temporal, date:1986, origin:In addition, he helped to develop the visual effects industry when he funded the computer graphics division of George Lucas's Lucasfilm in 1986.
+subject, relation, action, dimension:life, type:temporal, date:1995, origin:The new company was Pixar, which produced the first 3D computer-animated feature film Toy Story (1995) and went on to become a major animation studio, producing over 25 films since.
+
+subject, relation, action, dimension:life, type:temporal, date:1997, origin:In 1997, Steve Jobs returned to Apple as CEO after the company's acquisition of NeXT.
+subject, relation, action, dimension:life, type:temporal, date:2003, origin:In 2003, Steve Jobs was diagnosed with a pancreatic neuroendocrine tumor.
+subject, relation, action, dimension:life, type:temporal, date:October 5, 2011, origin:He died of respiratory arrest related to the tumor on October 5, 2011, at the age of 56.
+subject, relation, action, dimension:life, type:temporal, date:2022, origin:In 2022, he was posthumously awarded the Presidential Medal of Freedom.
+
+subject, relation, action, dimension:life, type:relation, date:February 24, 1955, origin:Steve Steve Jobsn Paul Steve Jobs was born in San Francisco, California, on February 24, 1955, to Joanne Carole Schieble and Abdulfattah Jandali
+subject, relation, action, dimension:life, type:temporal, date:February 24, 1955, origin:According to Jandali, Schieble deliberately did not involve him in the process: "Without telling me, Joanne upped and left to move to San Francisco to have the baby without anyone knowing, including me."[13]
+
+subject, relation, action, dimension:life, type:relation, date:1967, origin:"
+subject, relation, action, dimension:life, type:geography, date:mid-1972, origin:Steve Jobs later reflected that had it not been for Wozniak's blue boxes, "there wouldn't have been an Apple".[40]
+subject, relation, action, dimension:life, type:temporal, date:March 1976, origin:By March 1976, Wozniak completed the basic design of the Apple I computer and showed it to Steve Jobs, who suggested that they sell it; Wozniak was at first skeptical of the idea but later agreed.[70]
+subject, relation, action, dimension:life, type:geography, date:early 1977, origin:It was also at this time that Steve Jobs displayed a prototype Apple I computer for Brennan and his parents in their living room.
+subject, relation, action, dimension:life, type:temporal, date:April 1977, origin:Brennan notes a shift in this time period, where the two main influences on Steve Jobs were Apple Inc. and Kobun.
+subject, relation, action, dimension:life, type:geography, date:a few days, origin:Brennan's decision, however, was overshadowed by the fact that she realized she was pregnant, and that Steve Jobs was the father.
+subject, relation, action, dimension:life, type:temporal, date:January 24, 2006, origin:In 2003 and 2004, as Pixar's contract with Disney was running out, Steve Jobs and Disney chief executive Michael Eisner tried but failed to negotiate a new partnership,[134] and in January 2004, Steve Jobs announced that he would never deal with Disney again.[135] Pixar would seek a new partner to distribute its films after its contract expired.
+
+subject, relation, action, dimension:life, type:relation, date:nine months, origin:"
+subject, relation, action, dimension:life, type:relation, date:Sunday, October 16, 2011, origin:Some of Apple's retail stores closed briefly so employees could attend the memorial.
+subject, relation, action, dimension:life, type:relation, date:early 1986, origin:Although the doctor did not help Steve Jobs while he was alive, he left a letter for Steve Jobs to be opened upon his death.
+subject, relation, action, dimension:life, type:temporal, date:1972, origin:Steve Jobs attended Reed College in 1972 before withdrawing that same year.
+subject, relation, action, dimension:life, type:temporal, date:1974, origin:In 1974, he traveled through India seeking enlightenment before later studying Zen Buddhism.
+subject, relation, action, dimension:life, type:temporal, date:1976, origin:He and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer.
+subject, relation, action, dimension:life, type:temporal, date:1979, origin:Steve Jobs saw the commercial potential of the Xerox Alto in 1979, which was mouse-driven and had a graphical user interface (GUI).
+subject, relation, action, dimension:life, type:relation, date:1985, origin:In 1985, Steve Jobs was forced out of Apple after a long power struggle with the company's board and its then-CEO, John Sculley.
+subject, relation, action, dimension:life, type:temporal, date:1986, origin:In addition, he helped to develop the visual effects industry when he funded the computer graphics division of George Lucas's Lucasfilm in 1986.
+subject, relation, action, dimension:life, type:temporal, date:1995, origin:The new company was Pixar, which produced the first 3D computer-animated feature film Toy Story (1995) and went on to become a major animation studio, producing over 25 films since.
+
+subject, relation, action, dimension:life, type:temporal, date:1997, origin:In 1997, Steve Jobs returned to Apple as CEO after the company's acquisition of NeXT.
+subject, relation, action, dimension:life, type:temporal, date:2003, origin:In 2003, Steve Jobs was diagnosed with a pancreatic neuroendocrine tumor.
+subject, relation, action, dimension:life, type:temporal, date:October 5, 2011, origin:He died of respiratory arrest related to the tumor on October 5, 2011, at the age of 56.
+subject, relation, action, dimension:life, type:temporal, date:2022, origin:In 2022, he was posthumously awarded the Presidential Medal of Freedom.
+
+subject, relation, action, dimension:life, type:relation, date:February 24, 1955, origin:Steve Steve Jobsn Paul Steve Jobs was born in San Francisco, California, on February 24, 1955, to Joanne Carole Schieble and Abdulfattah Jandali
+subject, relation, action, dimension:life, type:temporal, date:February 24, 1955, origin:According to Jandali, Schieble deliberately did not involve him in the process: "Without telling me, Joanne upped and left to move to San Francisco to have the baby without anyone knowing, including me."[13]
+
+subject, relation, action, dimension:life, type:relation, date:1967, origin:"
+subject, relation, action, dimension:life, type:geography, date:mid-1972, origin:Steve Jobs later reflected that had it not been for Wozniak's blue boxes, "there wouldn't have been an Apple".[40]
+subject, relation, action, dimension:life, type:temporal, date:March 1976, origin:By March 1976, Wozniak completed the basic design of the Apple I computer and showed it to Steve Jobs, who suggested that they sell it; Wozniak was at first skeptical of the idea but later agreed.[70]
+subject, relation, action, dimension:life, type:geography, date:early 1977, origin:It was also at this time that Steve Jobs displayed a prototype Apple I computer for Brennan and his parents in their living room.
+subject, relation, action, dimension:life, type:temporal, date:April 1977, origin:Brennan notes a shift in this time period, where the two main influences on Steve Jobs were Apple Inc. and Kobun.
+subject, relation, action, dimension:life, type:geography, date:a few days, origin:Brennan's decision, however, was overshadowed by the fact that she realized she was pregnant, and that Steve Jobs was the father.
+subject, relation, action, dimension:life, type:temporal, date:January 24, 2006, origin:In 2003 and 2004, as Pixar's contract with Disney was running out, Steve Jobs and Disney chief executive Michael Eisner tried but failed to negotiate a new partnership,[134] and in January 2004, Steve Jobs announced that he would never deal with Disney again.[135] Pixar would seek a new partner to distribute its films after its contract expired.
+
+subject, relation, action, dimension:life, type:relation, date:nine months, origin:"
+subject, relation, action, dimension:life, type:relation, date:Sunday, October 16, 2011, origin:Some of Apple's retail stores closed briefly so employees could attend the memorial.
+subject, relation, action, dimension:life, type:relation, date:early 1986, origin:Although the doctor did not help Steve Jobs while he was alive, he left a letter for Steve Jobs to be opened upon his death.
+subject, relation, action, dimension:life, type:temporal, date:1972, origin:Steve Jobs attended Reed College in 1972 before withdrawing that same year.
+subject, relation, action, dimension:life, type:temporal, date:1974, origin:In 1974, he traveled through India seeking enlightenment before later studying Zen Buddhism.
+subject, relation, action, dimension:life, type:career, date:1976, origin:He and Wozniak co-founded Apple in 1976 to sell Wozniak's Apple I personal computer.
+subject, relation, action, dimension:life, type:temporal, date:1979, origin:Steve Jobs saw the commercial potential of the Xerox Alto in 1979, which was mouse-driven and had a graphical user interface (GUI).
+subject, relation, action, dimension:life, type:relation, date:1985, origin:In 1985, Steve Jobs was forced out of Apple after a long power struggle with the company's board and its then-CEO, John Sculley.
+subject, relation, action, dimension:life, type:temporal, date:1986, origin:In addition, he helped to develop the visual effects industry when he funded the computer graphics division of George Lucas's Lucasfilm in 1986.
+subject, relation, action, dimension:life, type:temporal, date:1995, origin:The new company was Pixar, which produced the first 3D computer-animated feature film Toy Story (1995) and went on to become a major animation studio, producing over 25 films since.
+
+subject, relation, action, dimension:life, type:career, date:1997, origin:In 1997, Steve Jobs returned to Apple as CEO after the company's acquisition of NeXT.
+subject, relation, action, dimension:life, type:temporal, date:2003, origin:In 2003, Steve Jobs was diagnosed with a pancreatic neuroendocrine tumor.
+subject, relation, action, dimension:life, type:temporal, date:October 5, 2011, origin:He died of respiratory arrest related to the tumor on October 5, 2011, at the age of 56.
+subject, relation, action, dimension:life, type:temporal, date:2022, origin:In 2022, he was posthumously awarded the Presidential Medal of Freedom.
+
+subject, relation, action, dimension:life, type:relation, date:February 24, 1955, origin:Steve Steve Jobsn Paul Steve Jobs was born in San Francisco, California, on February 24, 1955, to Joanne Carole Schieble and Abdulfattah Jandali
+subject, relation, action, dimension:life, type:temporal, date:February 24, 1955, origin:According to Jandali, Schieble deliberately did not involve him in the process: "Without telling me, Joanne upped and left to move to San Francisco to have the baby without anyone knowing, including me."[13]
+
+subject, relation, action, dimension:life, type:relation, date:1967, origin:"
+subject, relation, action, dimension:life, type:geography, date:mid-1972, origin:Steve Jobs later reflected that had it not been for Wozniak's blue boxes, "there wouldn't have been an Apple".[40]
+subject, relation, action, dimension:life, type:temporal, date:March 1976, origin:By March 1976, Wozniak completed the basic design of the Apple I computer and showed it to Steve Jobs, who suggested that they sell it; Wozniak was at first skeptical of the idea but later agreed.[70]
+subject, relation, action, dimension:life, type:geography, date:early 1977, origin:It was also at this time that Steve Jobs displayed a prototype Apple I computer for Brennan and his parents in their living room.
+subject, relation, action, dimension:life, type:temporal, date:April 1977, origin:Brennan notes a shift in this time period, where the two main influences on Steve Jobs were Apple Inc. and Kobun.
+subject, relation, action, dimension:life, type:geography, date:a few days, origin:Brennan's decision, however, was overshadowed by the fact that she realized she was pregnant, and that Steve Jobs was the father.
+subject, relation, action, dimension:life, type:temporal, date:January 24, 2006, origin:In 2003 and 2004, as Pixar's contract with Disney was running out, Steve Jobs and Disney chief executive Michael Eisner tried but failed to negotiate a new partnership,[134] and in January 2004, Steve Jobs announced that he would never deal with Disney again.[135] Pixar would seek a new partner to distribute its films after its contract expired.
+
+subject, relation, action, dimension:life, type:relation, date:nine months, origin:"
+subject, relation, action, dimension:life, type:relation, date:Sunday, October 16, 2011, origin:Some of Apple's retail stores closed briefly so employees could attend the memorial.
+subject, relation, action, dimension:life, type:relation, date:early 1986, origin:Although the doctor did not help Steve Jobs while he was alive, he left a letter for Steve Jobs to be opened upon his death.

@@ -36,8 +36,12 @@
 # # 如果你真的需要用代理去访问网页并且爬虫，我比较推荐你使用透明代理
 # # 好的，谢谢您！
 
-import re
-url = '//steve'
-url = re.sub('//','https://',url)
-print('')
+import sqlite3
+conn = sqlite3.connect('wikipage.db')
+c = conn.cursor()
+c.execute("select * from wikiperson")
+for row in c:
+    print(row)
+c.close()
+conn.close()
 

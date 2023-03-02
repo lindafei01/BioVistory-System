@@ -4,6 +4,7 @@ import sqlite3
 import re
 import os
 from data_processing.eventExtraction import process_data
+from data_processing.wikidata_test import get_wikidata
 # from tool2 import process_data  
 
 
@@ -145,7 +146,6 @@ def data2db(query:str, data_path:str):
     conn.close()
 
 def get_raw_info(query:str):
-
     s = requests.session()
     s.trust_env = False
     proxies = {"http": "http://127.0.0.1:7890", "https": "https://127.0.0.1:7890"}
@@ -188,7 +188,8 @@ def get_info(query:str):
         db2data(query)
     else:
         data = get_raw_info(query)
-        data_path = process_data(query, data) #TODO
+        wikidata = get_wikidata(query)
+        data_path = process_data(query, data, wikidata) #TODO
         data2db(query, data_path)
 
 

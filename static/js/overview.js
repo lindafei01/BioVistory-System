@@ -1,15 +1,15 @@
 async function get_data() {
-    // let data = await d3.text(`/static/data/data(${query}).txt`)
-    let data = await d3.text('../static/data/data(Angelina Jolie).txt')
-    //let description = await d3.text(`/static/data/brief(${query}).txt`)
-    let description = await d3.text('../static/data/brief(Angelina Jolie).txt')
+    let data = await d3.text(`/static/data/data(${query}).txt`)
+    // let data = await d3.text('../static/data/data(Angelina Jolie).txt')
+    let description = await d3.text(`/static/data/brief(${query}).txt`)
+    // let description = await d3.text('../static/data/brief(Angelina Jolie).txt')
 
     let name = description.split(',')[0].replace('name:', "")
     d3.select('.brief-demo').text(description.replace(`name:${name}, introduction:`, ""))
     d3.select('.brief-title').text(name)
 
-    //d3.select('.rect-inner img').attr('src', `/static/img/${query}.jpg`)//'./img/Evelyn Waugh.jpeg''./img/' + name + '.jpg'
-    d3.select('.rect-inner img').attr('src', '../static/img/Angelina Jolie.jpg')
+    d3.select('.rect-inner img').attr('src', `/static/img/${query}.jpg`)//'./img/Evelyn Waugh.jpeg''./img/' + name + '.jpg'
+    //d3.select('.rect-inner img').attr('src', '../static/img/Angelina Jolie.jpg')
     let split_data = data.split('\r\n')
 
     let _data = split_data.map(d => {
